@@ -1,0 +1,75 @@
+Removed Pin From Net: NetName=GND Pin=C31-1
+Removed Pin From Net: NetName=GND Pin=C32-2
+Removed Pin From Net: NetName=GND Pin=C59-1
+Removed Pin From Net: NetName=3V3 Pin=C59-2
+Removed Pin From Net: NetName=GND Pin=C66-2
+Removed Pin From Net: NetName=3V3 Pin=R40-2
+Removed Pin From Net: NetName=NetR51_1 Pin=U13-4
+Removed Pin From Net: NetName=NetR52_1 Pin=U13-6
+Removed Pin From Net: NetName=NetR19_1 Pin=U13-8
+Removed Pin From Net: NetName=NetR20_1 Pin=U13-11
+Removed Pin From Net: NetName=GND Pin=U13-12
+Removed Pin From Net: NetName=GND Pin=U13-13
+Removed Pin From Net: NetName=3V3 Pin=U13-14
+Removed Pin From Net: NetName=GND Pin=U13-16
+Removed Pin From Net: NetName=NetR51_1 Pin=U14-1
+Removed Pin From Net: NetName=NetR53_1 Pin=U14-5
+Removed Pin From Net: NetName=GND Pin=U14-9
+Removed Pin From Net: NetName=GND Pin=U14-11
+Removed Pin From Net: NetName=3V3 Pin=U14-13
+Removed Pin From Net: NetName=NetR52_1 Pin=U14-16
+Removed Member From Class: ClassName=SAST_PCB_V2_Test_Beta Member=C59
+Removed Member From Class: ClassName=SAST_PCB_V2_Test_Beta Member=C66
+Change Component Footprint: Designator=C55 Old Footprint=0603_DSP New Footprint=FP-GCG188-0_2-IPC_A
+Change Component Footprint: Designator=U13 Old Footprint=ADXL373BCCZRL7 New Footprint=ADXL373Z_EVAL
+Change Component Footprint: Designator=U14 Old Footprint=MMC5983MA New Footprint=MMC5983_EVAL
+Change Component Comment : Designator=U13 Old Comment=ADXL373BCCZ-RL7 New Comment=EVAL
+Change Component Comment : Designator=C55 Old Comment=CAP CER 1UF 16V X8L 0603 New Comment=0603
+Change Component Comment : Designator=U14 Old Comment=MMC5983MA New Comment=EVAL
+Change Managed Component Library Link : Designator=C55 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=7758850C-0218-47B5-914C-F0EFCAA7423D Old RevisionGUID= New RevisionGUID=1BE1E40E-7347-422F-AF1D-614CD563C80B
+Change component parameters: Designator = "C55" ("C55"); Footprint = "0603_DSP"; UniqueID = "\WWAOABJL" ("\WWAOABJL")
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GCG188L8EE105KA07D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturing"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier_Name"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier_Part_Number"; Value = "81-GCG188L8EE105KA7D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R40" ("R40"); Footprint = "0201_DSP"; UniqueID = "\ODIBQTUG" ("\ODIBQTUG")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0201"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay / Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CRCW040210K0FKEDC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturing"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier_Name"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier_Part_Number"; Value = "71-CRCW040210K0FKEDC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "U13" ("U13"); Footprint = "ADXL373BCCZRL7"; UniqueID = "\CQWIGLQS" ("\CQWIGLQS")
+Change component parameters: Designator = "U14" ("U14"); Footprint = "MMC5983MA"; UniqueID = "\KEVMHUVP" ("\KEVMHUVP")
+Add Component: Footprint Not Found Surface_Mount_PIC_Prog
+Add Pin To Net: Unknown Pin: Pin J3-1
+Add Pin To Net: Unknown Pin: Pin J3-2
+Add Pin To Net: Unknown Pin: Pin J3-3
+Add Pin To Net: Unknown Pin: Pin J3-4
+Add Pin To Net: Unknown Pin: Pin J3-5
+Added Pin To Net: NetName=3V3 Pin=R40-1
+Added Pin To Net: NetName=3V3 Pin=U13-2
+Added Pin To Net: NetName=NetR20_1 Pin=U13-5
+Added Pin To Net: NetName=NetR19_1 Pin=U13-6
+Added Pin To Net: NetName=NetR52_1 Pin=U13-8
+Added Pin To Net: NetName=NetR51_1 Pin=U13-9
+Added Pin To Net: NetName=GND Pin=U13-10
+Added Pin To Net: NetName=3V3 Pin=U14-3
+Added Pin To Net: NetName=GND Pin=U14-4
+Added Pin To Net: NetName=NetR51_1 Pin=U14-6
+Added Pin To Net: NetName=NetR52_1 Pin=U14-7
+Added Pin To Net: NetName=NetR53_1 Pin=U14-8
+Added Pin To Net: NetName=NetC31_1 Pin=C31-1
+Added Pin To Net: NetName=NetC31_1 Pin=C32-2
+Added Pin To Net: NetName=NetC31_1 Pin=U13-3
+Added Net: Name=NetC31_1
+Added Pin To Net: NetName=NetR40_2 Pin=R40-2
+Added Pin To Net: NetName=NetR40_2 Pin=U14-1
+Added Pin To Net: NetName=NetR40_2 Pin=U44-16
+Added Net: Name=NetR40_2
+Add Class Member: Failed to add class member : Component J3 TSW-105-05-T-S

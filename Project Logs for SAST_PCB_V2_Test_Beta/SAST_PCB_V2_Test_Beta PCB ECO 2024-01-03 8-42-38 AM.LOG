@@ -1,0 +1,15 @@
+Change Component Comment : Designator=J3 Old Comment=Comment New Comment=TSW-105-05-T-S
+Change component parameters: Designator = "J3" ("J3"); Footprint = "Surface_Mount_PIC_Prog"; UniqueID = "\OGMPLDCK" ("\OGMPLDCK")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "TSW-105-05-T-S"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tsw-105-05-t-s/samtec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/tsw-xxx-xx-xxx-x-xx-xxx-mkt.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TSW-105-05-T-S"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturing"; Value = "DNP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "200-TSW10505TS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/TSW-105-05-T-S?qs=rU5fayqh%252BE1ZC2pcvjQs1w%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ3_1 Pin=J3-1
+Added Pin To Net: NetName=3V3 Pin=J3-2
+Added Pin To Net: NetName=GND Pin=J3-3
+Added Pin To Net: NetName=NetJ3_4 Pin=J3-4
+Added Pin To Net: NetName=NetJ3_5 Pin=J3-5

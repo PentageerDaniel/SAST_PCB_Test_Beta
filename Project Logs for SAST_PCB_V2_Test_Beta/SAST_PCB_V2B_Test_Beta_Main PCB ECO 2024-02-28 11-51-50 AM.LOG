@@ -1,0 +1,9 @@
+Added Member To Class: ClassName=Power Member=Wire 5V_IN_FUSED
+Added Member To Class: ClassName=Power Member=Wire 5V_IN
+Added Member To Class: ClassName=Power Member=Wire BAT1
+Added Member To Class: ClassName=Power Member=Wire BAT2
+Added Member To Class: ClassName=Power Member=Wire NetC37_2
+Added Member To Class: ClassName=Power Member=Wire VBAT1
+Added Member To Class: ClassName=Power Member=Wire VBAT2
+Added Member To Class: ClassName=Power Member=Wire VBAT3
+Added Member To Class: ClassName=Power Member=Wire VOLT_IN_5V

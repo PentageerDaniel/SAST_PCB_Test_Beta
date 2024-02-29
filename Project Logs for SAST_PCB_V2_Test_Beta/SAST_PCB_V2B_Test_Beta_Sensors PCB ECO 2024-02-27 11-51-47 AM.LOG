@@ -1,0 +1,265 @@
+Change Component Footprint: Designator=J1 Old Footprint=MDLM-15PCBRP-F222 New Footprint=Wire24Awg2x1HPAD
+Added Component: Designator=J2(Wire24Awg2x1HPAD)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturing"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier_Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J3(Wire24Awg2x1HPAD)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturing"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier_Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J4(Wire24Awg2x1HPAD)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturing"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier_Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J5(Wire24Awg2x1HPAD)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturing"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier_Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J6(Wire24Awg2x1HPAD)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturing"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier_Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J7(Wire24Awg2x1HPAD)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturing"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier_Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J8(Wire24Awg2x1HPAD)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturing"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier_Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J9(Wire24Awg2x1HPAD)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturing"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier_Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J10(Wire24Awg2x1HPAD)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturing"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier_Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J11(Wire24Awg2x1HPAD)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturing"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier_Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J12(Wire24Awg2x1HPAD)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturing"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier_Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J13(Wire24Awg2x1HPAD)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturing"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier_Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J14(Wire24Awg2x1HPAD)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturing"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier_Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J15(Wire24Awg2x1HPAD)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturing"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier_Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J16(Wire24Awg2x1HPAD)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturing"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier_Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J17(Wire24Awg2x1HPAD)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturing"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier_Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=NetC1_2 Pin=J3-1
+Added Pin To Net: NetName=NetJ4_1 Pin=J4-1
+Added Pin To Net: NetName=NetJ5_1 Pin=J5-1
+Added Pin To Net: NetName=NetJ6_1 Pin=J6-1
+Added Pin To Net: NetName=NetJ7_1 Pin=J7-1
+Added Pin To Net: NetName=NetJ8_1 Pin=J8-1
+Added Pin To Net: NetName=NetC14_2 Pin=J9-1
+Added Pin To Net: NetName=NetJ10_1 Pin=J10-1
+Added Pin To Net: NetName=NetJ11_1 Pin=J11-1
+Added Pin To Net: NetName=NetJ12_1 Pin=J12-1
+Added Pin To Net: NetName=NetJ13_1 Pin=J13-1
+Added Pin To Net: NetName=NetJ14_1 Pin=J14-1
+Added Pin To Net: NetName=NetJ15_1 Pin=J15-1
+Added Pin To Net: NetName=NetJ16_1 Pin=J16-1
+Added Pin To Net: NetName=NetJ17_1 Pin=J17-1
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component C1 25V
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component C2 CAP CER 1UF 16V X8L 0603
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component C3 CAP CER .1UF 10V X8M 0201
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component C4 CAP CER 1UF 16V X8L 0603
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component C5 CAP CER .1UF 10V X8M 0201
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component C6 25V
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component C7 CAP CER 0.022UF 25V X8R 0402
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component C8 CAP CER 1UF 16V X8L 0603
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component C9 CAP CER .1UF 10V X8M 0201
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component C10 CAP CER 1UF 16V X8L 0603
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component C11 CAP CER .1UF 10V X8M 0201
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component C12 GCM155L81E104KE02D
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component C13 GCM155L81E104KE02D
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component C14 CAP CER .1UF 10V X8M 0201
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component C15 CAP CER .1UF 10V X8M 0201
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component C16 CAP CER 10UF 16V X8M 0805
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component C17 CAP CER 1UF 16V X8L 0603
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component C18 CAP CER .1UF 10V X8M 0201
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component C19 CAP CER 1UF 16V X8L 0603
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component C20 CAP CER .1UF 10V X8M 0201
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component C21 CAP CER 1UF 16V X8L 0603
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component C22 CAP CER .1UF 10V X8M 0201
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component C23 CAP CER 1UF 16V X8L 0603
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component C24 CAP CER .1UF 10V X8M 0201
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component C25 CAP CER .1UF 10V X8M 0201
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component C26 CAP CER 10UF 16V X8M 0805
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component C27 CAP CER 10UF 16V X8M 0805
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component C28 CAP CER .1UF 10V X8M 0201
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component C29 CAP CER 0.022UF 25V X8R 0402
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component C30 CAP CER 1UF 16V X8L 0603
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component C31 CAP CER 1UF 16V X8L 0603
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component J2
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component J3
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component J4
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component J5
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component J6
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component J7
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component J8
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component J9
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component J10
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component J11
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component J12
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component J13
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component J14
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component J15
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component J16
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component J17
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component L1 Inductor
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component R1
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component R2
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component R3 0402
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component R4 0402
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component R5 0402
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component R6 0402
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component R7
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component R8
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component R9
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component R10
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component R11
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component R12
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component R13
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component TP1
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component TP2
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component TP3
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component TP4
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component TP5
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component U1 ADXRS649Z_Eval
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component U2 ACCEL 10-40G I2C/SPI 14CLCC
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component U3 ADA4099-2HRZ
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component U4 ADR292ERZ
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component U5 ACCEL 10-40G I2C/SPI 14CLCC
+Added Member To Class: ClassName=SAST_PCB_V2B_Test_Beta_Sensors Member=Component U6 IC ADC 12BIT SAR 10MSOP

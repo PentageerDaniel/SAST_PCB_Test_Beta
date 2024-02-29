@@ -1,0 +1,25 @@
+Added Component: Designator=R164(0402_DSP)
+Add component (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay / Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CRCW040210K0FKEDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturing"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier_Name"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier_Part_Number"; Value = "71-CRCW040210K0FKEDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R165(0402_DSP)
+Add component (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay / Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CRCW040210K0FKEDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturing"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier_Name"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier_Part_Number"; Value = "71-CRCW040210K0FKEDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ2_6 Pin=R164-1
+Added Pin To Net: NetName=3V3 Pin=R164-2
+Added Pin To Net: NetName=NetJ2_7 Pin=R165-1
+Added Pin To Net: NetName=3V3 Pin=R165-2
+Added Pin To Net: NetName=NetC40_1 Pin=U9-10
+Added Member To Class: ClassName=SAST_PCB_V2_Test_Beta Member=Component R164
+Added Member To Class: ClassName=SAST_PCB_V2_Test_Beta Member=Component R165
