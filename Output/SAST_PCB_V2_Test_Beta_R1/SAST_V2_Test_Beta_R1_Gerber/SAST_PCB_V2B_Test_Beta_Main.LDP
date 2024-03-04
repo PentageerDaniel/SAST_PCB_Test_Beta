@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\DanielStPierre\Documents\Project\SAST_PCB_V2_Test_Beta\SAST_PCB_V2_Test_Beta\SAST_PCB_V2B_Test_Beta_Main.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=sast_pcb_v2b_test_beta_main-roundholes.txt|DrillLayers=gtl,g1,g2,g3,g4,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=sast_pcb_v2b_test_beta_main-slotholes.txt|DrillLayers=gtl,g1,g2,g3,g4,gbl
